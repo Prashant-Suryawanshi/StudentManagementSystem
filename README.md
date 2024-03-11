@@ -1,0 +1,2 @@
+# StudentManagementSystem
+first git repository.
